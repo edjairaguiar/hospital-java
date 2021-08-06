@@ -1,0 +1,15 @@
+Otorrinolaringologia
+Oncologia
+Cardiologia
+Dermatologia 
+Endocrinologia
+Endoscopia
+Ginecologia
+Geriatria
+Obstetrícia
+Hematologia
+Nefrologia
+Neurologia
+Oftalmologia
+Ortopedia
+Pediatria
